@@ -1,5 +1,7 @@
 /* Your own custom styles should be here */
-
+*{
+  font-family: 'Open Sans', sans-serif;
+}
   ul {
     list-style: none
   }
